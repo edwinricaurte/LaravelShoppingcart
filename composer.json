@@ -1,7 +1,7 @@
 {
-    "name": "edwinricaurte/LaravelShoppingcart",
-    "description": "Laravel Shoppingcart",
-    "keywords": ["laravel", "shoppingcart"],
+    "name": "edwinricaurte/shoppingcart",
+    "description": "Laravel Shopping Cart",
+    "keywords": ["laravel", "shopping cart"],
     "license": "MIT",
     "authors": [
         {
